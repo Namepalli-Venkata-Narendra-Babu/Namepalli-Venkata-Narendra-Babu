@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm N NARENDRA BABU</h1>
 <h3 align="center">I am Full Stack Python Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fquick-saves--1148417973706332104%2F&psig=AOvVaw0jKmWVhnBae4zb4IA2HLSS&ust=1697734444327000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJD14OiHgIIDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namepalli-venkata-narendra-babu&label=Profile%20views&color=0e75b6&style=flat" alt="namepalli-venkata-narendra-babu" /> </p>
